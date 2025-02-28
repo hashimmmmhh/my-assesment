@@ -1,0 +1,3 @@
+# Sample code to print "I am 7" using a loop
+for number in range(7, 8):
+    print(f"I am {number}")

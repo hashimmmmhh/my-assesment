@@ -1,0 +1,3 @@
+# Sample code to print "I am Leo"
+name = "Leo"
+print(f"I am {name}")
